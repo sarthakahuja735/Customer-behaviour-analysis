@@ -17,7 +17,7 @@ This project follows a full data analytics pipeline — from raw CSV data to  st
 
 ## Pipeline
 
-Raw CSV → Python (Clean & Transform) → MySQL Database → SQL Analysis
+Raw CSV → Python (Clean & Transform) → MySQL Analaysis → Visual Dasboard
 
 ## Key Business Questions Answered
 
@@ -49,8 +49,17 @@ Raw CSV → Python (Clean & Transform) → MySQL Database → SQL Analysis
 | `customer_behaviour_report.pbix` | power bi report |
 
 
+## Key Metrics
+
+Customers: 3,900
+Avg Purchase: $59.76
+Avg Rating: 3.75
+
 ## Insights
 
-- Loyal customers (10+ purchases) form the largest segment
-- Subscribed customers show higher average spend
-- Discount usage does not always reduce spending
+Male customers contribute ~68% sales
+Clothing is the top category
+Most users are non-subscribers
+Free shipping & PayPal are most preferred
+
+
