@@ -43,8 +43,8 @@ Raw CSV → Python (Clean & Transform) → MySQL Database → SQL Analysis
 
 | File | Description |
 |------|-------------|
-| `cleaning.py` | Data cleaning & SQL export script |
-| `analysis.sql` | All 10 business queries |
+| `customer_behaviour.py` | Data cleaning & SQL export script |
+| `customer_behaviour.sql` | All 10 business queries |
 | `customer_shopping_behavior.csv` | Raw dataset |
 | `customer_behaviour_report.pbix` | power bi report |
 
