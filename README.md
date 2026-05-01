@@ -49,7 +49,8 @@ Raw CSV → Python (Clean & Transform) → MySQL Analaysis → Visual Dasboard
 | `customer_shopping_behavior.csv` | Raw dataset |
 | `customer_behaviour_report.pbix` | power bi report |
 
-<img width="1451" height="810" alt="image" src="https://github.com/user-attachments/assets/7afc05d2-fd1c-4fde-9d59-ea23b569f012" />
+<img width="1449" height="816" alt="image" src="https://github.com/user-attachments/assets/0a98bab3-67c5-4282-82fc-aa542252caaa" />
+
 
 ## Key Metrics
 
