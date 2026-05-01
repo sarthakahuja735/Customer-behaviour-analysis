@@ -53,15 +53,13 @@ Raw CSV → Python (Clean & Transform) → MySQL Analaysis → Visual Dasboard
 
 ## Key Metrics
 
-Customers: 3,900
-Avg Purchase: $59.76
-Avg Rating: 3.75
+- Customers: 3,900
+- Avg Purchase: $59.76
+- Avg Rating: 3.75
 
 ## Insights
 
-Male customers contribute ~68% sales
-Clothing is the top category
-Most users are non-subscribers
-Free shipping & PayPal are most preferred
-
-
+- Male customers contribute ~68% sales  
+- Clothing is the top category  
+- Most users are non-subscribers  
+- Free shipping & PayPal are most preferred  
