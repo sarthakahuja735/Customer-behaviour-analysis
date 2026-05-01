@@ -14,6 +14,7 @@ This project follows a full data analytics pipeline — from raw CSV data to  st
 - Python — Data cleaning & transformation (Pandas, SQLAlchemy)
 - MySQL — Data storage & business queries
 - SQL — Exploratory & analytical querying
+- Powe bi - Visual understanding
 
 ## Pipeline
 
