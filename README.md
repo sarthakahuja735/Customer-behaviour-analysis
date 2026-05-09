@@ -1,9 +1,5 @@
-# Customer-behaviour-analysis
-End-to-end customer shopping behaviour analysis using Python, Pandas, MySQL, and Power bi. covering data cleaning, transformation, and 10 business-driven analytical queries.
-
-# Customer Behaviour Analysis
-
-A complete data analytics project that explores customer shopping patterns, spending habits, and purchasing behaviour using a real-world retail dataset.
+## Customer Behaviour Analysis
+End-to-end customer shopping behaviour analysis using Python, Pandas, MySQL, and Power bi. covering data cleaning, transformation, and 10 business-driven analytical queries that explores customer shopping patterns, spending habits, and purchasing behaviour using a real-world retail dataset.
 
 ## Project Overview
 
